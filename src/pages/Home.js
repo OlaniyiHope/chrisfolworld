@@ -330,7 +330,9 @@ const Home = () => {
               <div class="col-xl-5">
                 <div class="about-wrap1">
                   <div class="title-area mb-30">
-                    <span class="sub-title before-none">About Us Donat</span>
+                    <span class="sub-title before-none">
+                      About Chrisfolworld
+                    </span>
                     <h2 class="sec-title">
                       We Believe that We can Save More Life's with you
                     </h2>
