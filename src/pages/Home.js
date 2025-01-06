@@ -341,7 +341,7 @@ const Home = () => {
                       in need through various programs and initiatives.
                     </p>
                   </div>
-                  <div class="checklist style2 list-two-column">
+                  {/*} <div class="checklist style2 list-two-column">
                     <ul>
                       <li>Charity For Foods</li>
                       <li data-theme-color="var(--theme-color2)">
@@ -350,9 +350,9 @@ const Home = () => {
                       <li data-theme-color="#FF5528">Charity For Education</li>
                       <li data-theme-color="#122F2A">Charity For Medical</li>
                     </ul>
-                  </div>
+                  </div>*/}
                   <div class="btn-wrap mt-40">
-                    <a href="about.html" class="th-btn">
+                    <a href="/about" class="th-btn">
                       About More<i class="fas fa-arrow-up-right ms-2"></i>
                     </a>
                   </div>
