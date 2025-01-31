@@ -60,8 +60,8 @@ const Footer = () => {
                 <div class="widget footer-widget">
                   <div class="th-widget-about">
                     <div class="about-logo">
-                      <a href="index.html">
-                        <img src="assets/img/logo-white.svg" alt="Donat" />
+                      <a href="/" style={{ color: "white" }}>
+                        CHRISFOLWORLD
                       </a>
                     </div>
                     <p class="about-text">
